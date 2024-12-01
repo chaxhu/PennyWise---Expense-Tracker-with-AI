@@ -1,7 +1,7 @@
 The project directory contains various files and folders, indicating a modern web development stack. Here's a preliminary analysis of the key components and technologies:
 
 ### Key Files and Technologies
-1. **TypeScript Configuration (tsconfig.json, tsconfig.app.json, tsconfig.node.json):
+1. **TypeScript Configuration (tsconfig.json, tsconfig.app.json, tsconfig.node.json)**:
    - Indicates the use of *TypeScript* for development, providing static typing and improved code maintainability.
    
 2. **package.json and package-lock.json**:
