@@ -68,4 +68,9 @@ The **src** folder contains various subfolders and files that highlight the arch
 11. **types**:
     - TypeScript type definitions, ensuring strong typing throughout the application.
 
+### Snapshots
 
+![IMG-20241201-WA0002](https://github.com/user-attachments/assets/0ad768aa-b711-4e5e-b7cd-2fc4bdf06354)
+![IMG-20241201-WA0001](https://github.com/user-attachments/assets/2712526a-9ff7-4e14-9c7b-66c5458ef107)
+![IMG-20241201-WA0004](https://github.com/user-attachments/assets/52c880d5-0305-4d7d-a002-e42dc0c3fb39)
+![IMG-20241201-WA0003](https://github.com/user-attachments/assets/c084e288-10ba-4b8c-8b37-b2ceea96bc81)
