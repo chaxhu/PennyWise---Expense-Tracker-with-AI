@@ -1,3 +1,4 @@
+# Vibe Coding experiment
 The project directory contains various files and folders, indicating a modern web development stack. Here's a preliminary analysis of the key components and technologies:
 
 ### Key Files and Technologies
